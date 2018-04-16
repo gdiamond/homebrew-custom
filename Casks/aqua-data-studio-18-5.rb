@@ -6,5 +6,5 @@ cask 'aqua-data-studio' do
   name 'Aquafold Aqua Data Studio'
   homepage 'http://www.aquafold.com/aquadatastudio.html'
 
-  app 'Aqua Data Studio.app' , target: 'Aqua Data Studio 18.5.app'
+  app 'Aqua Data Studio.app', target: 'Aqua Data Studio 18.5.app'
 end
