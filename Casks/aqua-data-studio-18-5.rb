@@ -1,4 +1,4 @@
-cask 'aqua-data-studio' do
+cask 'aqua-data-studio-18-5' do
   version '18.5.0'
   sha256 '744955217e65c21d64ed0b7f5974e6cb75fb66ef2e2bde59c8ad384b7169d140'
 
